@@ -2,7 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=flat-square)](https://laravel-checkin.alwaysdata.net/)
 [![Package](https://img.shields.io/badge/Packagist-mustafa--azmi%2Flaravel--checkin-orange?style=flat-square)](https://packagist.org/packages/mustafa-azmi/laravel-checkin)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Tests](https://github.com/Mustafa21102005/laravel-checkin/actions/workflows/tests.yml/badge.svg)](https://github.com/Mustafa21102005/laravel-checkin/actions/workflows/tests.yml)
+[![Laravel](https://img.shields.io/badge/Laravel-10%20%7C%2011%20%7C%2012%20%7C%2013-FF2D20?style=flat-square&logo=laravel&logoColor=white)](composer.json)
+[![PHP](https://img.shields.io/badge/PHP-%5E8.2-777BB4?style=flat-square&logo=php&logoColor=white)](composer.json)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/Mustafa21102005/laravel-checkin/blob/master/LICENSE.md)
 
 An interactive reference implementation demonstrating real-world application patterns for the [`mustafa-azmi/laravel-checkin`](https://github.com/Mustafa21102005/laravel-checkin) package.
 
